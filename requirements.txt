@@ -1,0 +1,17 @@
+torch
+torchaudio
+transformers
+gradio
+accelerate
+librosa
+soundfile
+fish-speech
+numpy
+sentencepiece
+pyyaml
+tensorboard
+vector-quantize-pytorch
+loguru
+pydantic
+hydra-core
+omegaconf
